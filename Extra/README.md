@@ -1,6 +1,6 @@
 ## Trechos Essenciais
 
-### 1. Inicialização SDL (main.c)
+### 1. Inicialização SDL (edge_detection.c)
 ```c
 SDL_Window* window = SDL_CreateWindow("Detector de Bordas", 800, 600, 0);
 SDL_Renderer* renderer = SDL_CreateRenderer(window, NULL, SDL_RENDERER_ACCELERATED);
