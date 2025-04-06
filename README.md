@@ -24,7 +24,6 @@ A aplicação implementa a detecção de bordas com base nos seguintes princípi
 ```
 border_detection/
 ├── src/           # Source code files
-│   ├── main.c
 │   └── edge_detection.c
 ├── include/       # Header files
 │   └── edge_detection.h
